@@ -119,7 +119,7 @@ del Examen Parcial, donde no hay asistente que valga.
 ## Licencia
 
 El código de este repositorio se publica bajo licencia [MIT](LICENSE) — copyright © 2026
-Alejandro Mesejo Chiong. Puedes usarlo, copiarlo y modificarlo libremente, dentro y fuera de la
+Alejandro Mesejo. Puedes usarlo, copiarlo y modificarlo libremente, dentro y fuera de la
 asignatura, conservando el aviso de copyright.
 
 Esa licencia cubre el **material de partida**: los esqueletos, las clases ya escritas y las
