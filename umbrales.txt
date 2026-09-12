@@ -1,1 +1,4 @@
-# umbrales en milisegundos\nhttps://www.uib.es=300\ndns:uib.es=150\ntcp:mail.uib.es:25=500\n
+# umbrales en milisegundos
+https://www.uib.es=300
+dns:uib.es=150
+tcp:mail.uib.es:25=500

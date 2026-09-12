@@ -1,1 +1,3 @@
-# el valor de la tercera línea no es un número\nhttps://www.uib.es=300\ndns:uib.es=rapido\n
+# el valor de la tercera línea no es un número
+https://www.uib.es=300
+dns:uib.es=rapido
